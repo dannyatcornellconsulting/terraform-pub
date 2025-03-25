@@ -13,7 +13,7 @@ terraform {
     }
   }
   backend "local" {
-    path = "C:/state/terraform.tfstate"
+    path = "C:/statenew/terraform.tfstate"
     
   }
 }
